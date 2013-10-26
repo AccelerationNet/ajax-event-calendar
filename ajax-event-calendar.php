@@ -400,7 +400,7 @@ if (!class_exists('ajax_event_calendar')) {
 
 			// register scripts
 			wp_register_script('fullcalendar', AEC_URL . 'js/jquery.fullcalendar.min.js', array('jquery'), '1.5.3', true);
-			wp_register_script('simplemodal', AEC_URL . 'js/jquery.simplemodal.1.4.3.min.js', array('jquery'), '1.4.3', true);
+			wp_register_script('simplemodal', AEC_URL . 'js/jquery.simplemodal.1.4.5.js', array('jquery'), '1.4.5', true);
 			wp_register_script('jquery-ui-datepicker', AEC_URL . 'js/jquery.ui.datepicker.min.js', array('jquery-ui-core'), '1.8.5', true);
 			wp_register_script('datepicker-locale', AEC_URL . 'js/i18n/jquery.ui.datepicker-' . substr(get_locale(), 0, 2) . '.js', array('jquery-ui-datepicker'), '1.8.5', true);
 			wp_register_script('timepicker', AEC_URL . 'js/jquery.timePicker.min.js', array('jquery'), '5195', true);
