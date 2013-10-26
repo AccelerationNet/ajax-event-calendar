@@ -275,7 +275,7 @@ jQuery(document).ready(function ($) {
 			}
 
 			// modal window controls
-			$('#aec-modal').modal({
+			$('#aec-modal').simplemodal({
 				overlayId: 'aec-modal-overlay',
 				containerId: 'aec-modal-container',
 				closeHTML: '<div class="close"><a href="#" class="simplemodal-close" title="' + custom.close_event_form + '">x</a></div>',
