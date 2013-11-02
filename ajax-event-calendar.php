@@ -1,15 +1,16 @@
 <?php
 /*
-Plugin Name: Ajax Event Calendar
-Plugin URI: http://wordpress.org/extend/plugins/ajax-event-calendar/
+Plugin Name: a Fork of Ajax Event Calendar
+Plugin URI: https://github.com/franceimage/ajax-event-calendar
 Description: A fully localized community calendar that allows authorized users to manage events in custom categories.
 Version: 1.0.4
-Author: Eran Miller
-Author URI: http://eranmiller.com
+Author: Eran Miller, FranceImage
+Author URI: http://franceimage.com/en/tech-blog
 License: GPL2
 */
 
-/*  Copyright 2011  Eran Miller <email: plugins@eranmiller.com>
+/*
+    Copyright 2011  Eran Miller <email: plugins@eranmiller.com>
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as
